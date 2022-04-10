@@ -1,9 +1,8 @@
 ## Online Malaria Predictor
 Online malaria Predictor is a webapp to demonistrate a model which can predict malaria with 96% Accuracy
 site can be viewed live <br>
-(hosted at miscrosft Azure) : https://onlinemalariapredictor.azurewebsites.net/
+(hosted at miscrosft Azure) : https://malariatest.azurewebsites.net
 
-site is also deployed in herokuapp (online web hosting site) :https://onlinemalariaprediction.herokuapp.com/ 
 
 # Note - please scroll down the site as images are bigger in  size
 
@@ -13,7 +12,6 @@ site is also deployed in herokuapp (online web hosting site) :https://onlinemala
 ![Screenshot (607)](https://user-images.githubusercontent.com/40494619/155872550-e7db11d2-b152-4a14-810d-f8c714a4a6b9.png)
 # Home page containing Information about Disease
 ![Screenshot (608)](https://user-images.githubusercontent.com/40494619/155872561-6f15a2c6-f92f-4eb7-a0ab-a8ee3f7cc521.png)
-# Malaria (Disease predictor) page in navigation it is next to Home page tab when clicked on it and scrolled down  it appyears
 ![Screenshot (609)](https://user-images.githubusercontent.com/40494619/155872572-86d312a7-f632-4471-b804-80ecfe7d322f.png)
 Selecting sample image to be tested for prediction for upload
 ![Screenshot (612)](https://user-images.githubusercontent.com/40494619/155872590-035243af-8f1e-4b11-9ecb-1d2d7eec63b2.png)
